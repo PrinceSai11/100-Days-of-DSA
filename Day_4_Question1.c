@@ -1,4 +1,4 @@
-/* Problem: Given an array of n integers,  reverse the array.
+/* Problem: Given an array of n integers, reverse the array.
 
 Input:
 - First line: integer n
